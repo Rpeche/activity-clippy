@@ -62,7 +62,47 @@
 								fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.</p>
 							</header>
 							<ul class="icons major">
-								<li><span class="icon fa-diamond major style1"><span class="label">Lorem</span></span></li>
+								<li><script type="text/javascript">
+  function ShopifyBuyInit() {
+    var client = ShopifyBuy.buildClient({
+      domain: 'embeds.myshopify.com',
+      apiKey: '952162710f94aa7b7644b14b2a94f4a3',
+      appId: '6',
+    });
+
+    ShopifyBuy.UI.onReady(client).then(function (ui) {
+      ui.createComponent('product', {
+        id: [3030475907],
+        node: document.getElementById('product-component-05cfb487fb6'),
+        moneyFormat: '%24%7B%7Bamount%7D%7D',
+        options: {
+          "product": {
+            "styles": {
+              "button": {
+                "background-color": "#292929",
+                ":hover": {"background-color": "#464646"},
+                ":focus": {"background-color": "#464646"}
+              },
+            }
+          }
+        }
+      });
+    });
+  }
+
+(function () {
+  var scriptURL = 'https://sdks.shopifycdn.com/buy-button/latest/buy-button-storefront.min.js';
+  window.ShopifyBuy && window.ShopifyBuy.UI ? ShopifyBuyInit() : loadScript();
+
+  function loadScript() {
+    var script = document.createElement('script');
+    script.async = true;
+    script.src = scriptURL;
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(script);
+    script.onload = ShopifyBuyInit;
+  }
+})();
+</script></li>
 								<li><span class="icon fa-heart-o major style2"><span class="label">Ipsum</span></span></li>
 								<li><span class="icon fa-code major style3"><span class="label">Dolor</span></span></li>
 							</ul>
@@ -145,49 +185,9 @@
 								<li><a href="#" class="button fit">Learn More</a></li>
 							</ul>
 						</div>
-<script type="text/javascript">
-  function ShopifyBuyInit() {
-    var client = ShopifyBuy.buildClient({
-      domain: 'embeds.myshopify.com',
-      apiKey: '952162710f94aa7b7644b14b2a94f4a3',
-      appId: '6',
-    });
-
-    ShopifyBuy.UI.onReady(client).then(function (ui) {
-      ui.createComponent('product', {
-        id: [3030475907],
-        node: document.getElementById('product-component-05cfb487fb6'),
-        moneyFormat: '%24%7B%7Bamount%7D%7D',
-        options: {
-          "product": {
-            "styles": {
-              "button": {
-                "background-color": "#292929",
-                ":hover": {"background-color": "#464646"},
-                ":focus": {"background-color": "#464646"}
-              },
-            }
-          }
-        }
-      });
-    });
-  }
-
-(function () {
-  var scriptURL = 'https://sdks.shopifycdn.com/buy-button/latest/buy-button-storefront.min.js';
-  window.ShopifyBuy && window.ShopifyBuy.UI ? ShopifyBuyInit() : loadScript();
-
-  function loadScript() {
-    var script = document.createElement('script');
-    script.async = true;
-    script.src = scriptURL;
-    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(script);
-    script.onload = ShopifyBuyInit;
-  }
-})();
-</script>
+<
 <div id='product-component-05cfb487fb6'></div>
-						
+
 					</section>
 
 				<!-- Footer -->
