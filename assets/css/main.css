@@ -3446,7 +3446,11 @@
 		}
 
 			#banner p a {
-				color: inherit;
+				color: #ffffff;
+			}
+
+			#banner .inner h2 {
+				color: #ffffff;
 			}
 
 		#banner .more {
