@@ -3138,7 +3138,6 @@
 	}
 
 		#page-wrapper:before {
-			background: transparent;
 			content: '';
 			display: block;
 			display: none;
