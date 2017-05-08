@@ -3584,7 +3584,12 @@
 			width: 70%;
 		}
 
-			#cta .inner header p h2{
+			#cta .inner header p  {
+				color: #ffffff;
+
+			}
+
+			#cta .inner header p {
 				color: #ffffff;
 			}
 
