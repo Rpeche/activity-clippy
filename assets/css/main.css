@@ -3255,7 +3255,7 @@
 		-ms-transition: background-color 0.2s ease;
 		transition: background-color 0.2s ease;
 		background: #ffffff;
-		height: 7em;
+		height: 4.5em;
 		left: 0;
 		line-height: 3em;
 		position: fixed;
@@ -3271,6 +3271,7 @@
 			transition: opacity 0.2s ease;
 			height: inherit;
 			left: 1.25em;
+			top: 2em;
 			line-height: inherit;
 			position: absolute;
 			top: 0;
