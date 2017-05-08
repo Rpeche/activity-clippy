@@ -3264,7 +3264,7 @@
 		z-index: 10000;
 	}
 
-		#header h1 img {
+		#header h1 a img {
 			-moz-transition: opacity 0.2s ease;
 			-webkit-transition: opacity 0.2s ease;
 			-ms-transition: opacity 0.2s ease;
