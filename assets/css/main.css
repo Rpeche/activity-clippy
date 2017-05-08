@@ -3271,10 +3271,9 @@
 			transition: opacity 0.2s ease;
 			height: inherit;
 			left: 1.25em;
-			top: 5em;
 			line-height: inherit;
 			position: absolute;
-			top: 0;
+			top: 3em;
 		}
 
 			#header h1 a {
