@@ -2641,7 +2641,7 @@
 		}
 
 		.wrapper.style1 {
-			background-color: #fffafa;
+			background-color: #fcf5f5;
 			color: #000000;
 		}
 
@@ -3335,7 +3335,6 @@
 								height: 3.75em;
 								vertical-align: top;
 								width: 2em;
-								color: #000000;
 							}
 
 							@media screen and (max-width: 736px) {
@@ -3362,8 +3361,7 @@
 						margin-left: 0;
 					}
 
-		#header.alt {
-			background: transparent;
+
 		}
 
 			#header.alt h1 {
