@@ -3250,10 +3250,7 @@
 /* Header */
 
 	#header {
-		-moz-transition: background-color 0.2s ease;
-		-webkit-transition: background-color 0.2s ease;
-		-ms-transition: background-color 0.2s ease;
-		transition: background-color 0.2s ease;
+
 		background: #ffffff;
 		height: 4.5em;
 		left: 0;
@@ -3265,10 +3262,7 @@
 	}
 
 		#header h1 {
-			-moz-transition: opacity 0.4s ease;
-			-webkit-transition: opacity 0.4s ease;
-			-ms-transition: opacity 0.s ease;
-			transition: opacity 0.4s ease;
+			
 			height: inherit;
 			left: 1.25em;
 			line-height: inherit;
