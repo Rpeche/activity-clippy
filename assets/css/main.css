@@ -2616,7 +2616,7 @@
 	}
 
 		.wrapper > .inner {
-			width: 60em;
+			width: 100em;
 			margin: 0 auto;
 		}
 
@@ -2792,7 +2792,6 @@
 
 				.wrapper.style1 .features li {
 					border-top-color: rgba(0, 0, 0, 0.125);
-					display: inline-block;
 				}
 
 			}
