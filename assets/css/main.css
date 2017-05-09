@@ -2034,6 +2034,14 @@
 				padding: 1em 0;
 			}
 
+        #products ul {
+        	list-style: none;
+        }
+
+        #products li {
+        	display: inline;
+        }
+			
 				ul.icons.major li {
 					padding-right: 0em;
 					display: inline;
