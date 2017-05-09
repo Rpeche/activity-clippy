@@ -2035,11 +2035,13 @@
 			}
 
 				ul.icons.major li {
-					float:right;
 					padding-right: 0em;
-
+					float:left;
 				}
 
+				ul.icons.major li div { 
+					display: block;
+				}
 					@media screen and (max-width: 736px) {
 
 						ul.icons.major li {
