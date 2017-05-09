@@ -3654,7 +3654,7 @@
 /* Main */
 
 	#main > header {
-		padding: 20em 0 10em 0 ;
+		padding: 12em 0 10em 0 ;
 		background-image: -moz-linear-gradient(top, rgba(0,0,0,0.0), rgba(0,0,0,0.0)), url("../../images/banner.jpg");
 		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.0), rgba(0,0,0,0.0)), url("../../images/banner.jpg");
 		background-image: -ms-linear-gradient(top, rgba(0,0,0,0.0), rgba(0,0,0,0.0)), url("../../images/banner.jpg");
@@ -3668,7 +3668,7 @@
 
 		#main > header h2 {
 			font-size: 1.75em;
-			margin: 0 0 0.5em 0;
+			margin: 20em 0 0.5em 0;
 		}
 
 		#main > header p {
