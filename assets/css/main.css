@@ -1902,6 +1902,7 @@
 			line-height: 3em;
 			text-align: center;
 			width: calc(3em + 2px);
+			float: right;
 		}
 
 			.icon.major:before {
@@ -1917,7 +1918,6 @@
 
 				.icon.major {
 					font-size: 1em;
-					float: right;
 				}
 
 			}
