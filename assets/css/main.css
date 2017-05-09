@@ -3263,6 +3263,7 @@
 		-ms-transition: background-color 0.2s ease;
 		transition: background-color 0.2s ease;
 		background: #ffffff;
+		background-color: transparent;
 		height: 3.8em;
 		left: 0;
 		line-height: 3em;
