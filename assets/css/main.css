@@ -2034,8 +2034,7 @@
 			}
 
 				ul.icons.major li {
-					display:inline-block !important;
-					padding: 0 2em 1em 0;
+					padding-right: 3.5em;
 				}
 
 					@media screen and (max-width: 736px) {
