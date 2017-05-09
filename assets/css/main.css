@@ -3273,7 +3273,7 @@
 			left: 3em;
 			line-height: inherit;
 			position: absolute;
-			top: 0.75em;
+			top: 0.90em;
 		}
 
 			#header h1 a {
@@ -3287,6 +3287,9 @@
 
 					#header h1 a {
 						font-size: 0.8em;
+					}
+					#header h1 {
+						left: 3em;
 					}
 
 				}
