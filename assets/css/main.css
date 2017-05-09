@@ -1904,7 +1904,7 @@
 			width: calc(3em + 2px);
 		}
 
-		
+	
 			.icon.major:before {
 				-moz-transform: rotate(45deg);
 				-webkit-transform: rotate(45deg);
@@ -2647,6 +2647,10 @@
 		}
 
 			
+			}
+
+			wrapper.style1 .productline {
+				display:inline-block;
 			}
 
 			.wrapper.style1 strong, .wrapper.style1 b {
