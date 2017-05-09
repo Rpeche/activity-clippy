@@ -2032,11 +2032,10 @@
 
 			ul.icons.major {
 				padding: 1em 0;
-				width: 400px;
 			}
 
 				ul.icons.major li {
-					display:inline-block;
+					float:right;
 					padding-right: 0em;
 
 				}
