@@ -2036,12 +2036,10 @@
 
 				ul.icons.major li {
 					padding-right: 0em;
-					float:right;
+					
 				}
 
-				ul.icons.major div { 
-					display: block;
-				}
+			
 					@media screen and (max-width: 736px) {
 
 						ul.icons.major li {
