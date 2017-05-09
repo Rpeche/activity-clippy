@@ -1902,7 +1902,10 @@
 			line-height: 3em;
 			text-align: center;
 			width: calc(3em + 2px);
-			float: right;
+		}
+
+		.icons.major li {
+			float:right ;
 		}
 
 			.icon.major:before {
