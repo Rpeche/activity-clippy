@@ -3369,6 +3369,7 @@
 						margin-left: 0;
 					}
 
+ 	/* if you want to make this transparent, add this
 
 		#header.alt {
 			background: transparent;
@@ -3382,7 +3383,7 @@
 				opacity: 0;
 			}
 
-	
+		*/	
 
 /* Banner */
 
