@@ -3440,6 +3440,7 @@
 				height: 2px;
 				position: absolute;
 				width: 100%;
+				background: transparent;
 			}
 
 			#banner h2:before {
