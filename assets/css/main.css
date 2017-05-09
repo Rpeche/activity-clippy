@@ -2616,7 +2616,7 @@
 	}
 
 		.wrapper > .inner {
-			width: 100em;
+			width: 60em;
 			margin: 0 auto;
 		}
 
@@ -2644,6 +2644,10 @@
 			background-color: #fcf5f5;
 			color: #000000;
 		}
+
+			.wrapper.style1 li {
+				display: inline-block;
+			}
 
 			.wrapper.style1 strong, .wrapper.style1 b {
 				color: #ffffff;
