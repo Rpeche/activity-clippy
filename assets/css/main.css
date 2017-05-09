@@ -3402,28 +3402,12 @@
 		justify-content: center;
 		cursor: default;
 		height: 100vh;
-		min-height: 50em;
+		min-height: 35em;
 		overflow: hidden;
 		position: relative;
 		text-align: center;
 	}
 
-		#banner h2 {
-			-moz-transform: scale(1);
-			-webkit-transform: scale(1);
-			-ms-transform: scale(1);
-			transform: scale(1);
-			-moz-transition: -moz-transform 0.5s ease, opacity 0.5s ease;
-			-webkit-transition: -webkit-transform 0.5s ease, opacity 0.5s ease;
-			-ms-transition: -ms-transform 0.5s ease, opacity 0.5s ease;
-			transition: transform 0.5s ease, opacity 0.5s ease;
-			display: inline-block;
-			font-size: 1.75em;
-			opacity: 1;
-			padding: 0.35em 1em;
-			position: relative;
-			z-index: 1;
-		}
 
 			#banner h2:before, #banner h2:after {
 				-moz-transition: width 0.85s ease;
