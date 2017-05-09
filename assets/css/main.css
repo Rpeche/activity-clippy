@@ -3361,10 +3361,10 @@
 						margin-left: 0;
 					}
 
-/*if you want to make transparent banner, add this 		
+ 		
 		#header.alt {
 			background: transparent;
-		} */
+		} 
 
 			#header.alt h1 {
 				-moz-pointer-events: none;
