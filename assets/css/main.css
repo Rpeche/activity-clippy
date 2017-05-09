@@ -1396,7 +1396,7 @@
 	}
 
 	body {
-		background: #ffffff;
+		background: #2E3842;
 	}
 
 		body.is-loading *, body.is-loading *:before, body.is-loading *:after {
@@ -3488,7 +3488,7 @@
 			transform: translateY(0);
 			border: none;
 			bottom: 0;
-			color: #000000;
+			color: #ffffff;
 			font-size: 0.8em;
 			height: 8.5em;
 			left: 50%;
