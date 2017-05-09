@@ -2025,14 +2025,16 @@
 				padding: 0 1em 0 0;
 			}
 
-				
+				ul.icons li:last-child {
+					padding-right: 0 !important;
+				}
 
 			ul.icons.major {
 				padding: 1em 0;
+				display: inline-block;
 			}
 
 				ul.icons.major li {
-					padding-right: 3.5em;
 				}
 
 					@media screen and (max-width: 736px) {
