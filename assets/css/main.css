@@ -1889,33 +1889,14 @@
 			display: none;
 		}
 
-		.icon.major {
-			-moz-transform: rotate(-45deg);
-			-webkit-transform: rotate(-45deg);
-			-ms-transform: rotate(-45deg);
-			transform: rotate(-45deg);
-			border-radius: 3px;
-			border: solid 2px #fff;
-			display: inline-block;
-			font-size: 1.35em;
-			height: calc(3em + 2px);
-			line-height: 3em;
-			text-align: center;
-			width: calc(3em + 2px);
+	
 		}
 
 		.icons.major li {
 			display: inline-block;
 		}
 
-			.icon.major:before {
-				-moz-transform: rotate(45deg);
-				-webkit-transform: rotate(45deg);
-				-ms-transform: rotate(45deg);
-				transform: rotate(45deg);
-				display: inline-block;
-				font-size: 1.5em;
-			}
+		
 
 			@media screen and (max-width: 736px) {
 
