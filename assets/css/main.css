@@ -2031,10 +2031,10 @@
 
 			ul.icons.major {
 				padding: 1em 0;
-				display: inline-block;
 			}
 
 				ul.icons.major li {
+					padding-right: 10em;
 				}
 
 					@media screen and (max-width: 736px) {
