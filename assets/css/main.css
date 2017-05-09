@@ -2737,7 +2737,6 @@
 
 			.wrapper.style1 ul.alt li {
 				border-color: rgba(0, 0, 0, 0.125);
-				display: inline-block;
 			}
 
 			.wrapper.style1 table tbody tr {
@@ -2793,6 +2792,7 @@
 
 				.wrapper.style1 .features li {
 					border-top-color: rgba(0, 0, 0, 0.125);
+					display: inline-block;
 				}
 
 			}
