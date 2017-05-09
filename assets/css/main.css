@@ -1905,7 +1905,7 @@
 		}
 
 		.icons.major li {
-			float:right ;
+			display: inline-block;
 		}
 
 			.icon.major:before {
