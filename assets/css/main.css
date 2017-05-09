@@ -3418,12 +3418,13 @@
 			-ms-transition: -ms-transform 0.5s ease, opacity 0.5s ease;
 			transition: transform 0.5s ease, opacity 0.5s ease;
 			display: inline-block;
-			font-size: 1.75em;
+			font-size: 2em;
 			opacity: 1;
 			padding: 0.35em 1em;
 			position: relative;
 			z-index: 1;
 		}
+/* this is where the white line animation happens */ 
 
 			#banner h2:before, #banner h2:after {
 				-moz-transition: width 0.85s ease;
@@ -3440,7 +3441,7 @@
 				height: 2px;
 				position: absolute;
 				width: 100%;
-				background: transparent;
+				background: transparent; /* erase this line to get animation back*/ 
 			}
 
 			#banner h2:before {
