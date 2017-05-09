@@ -3441,6 +3441,8 @@
 				height: 2px;
 				position: absolute;
 				width: 100%;
+				background: transparent; /* erase this line to get animation back*/ 
+
 			}
 
 			#banner h2:before {
