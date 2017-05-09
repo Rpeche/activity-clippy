@@ -3422,7 +3422,7 @@
 			opacity: 1;
 			padding: 0.35em 1em;
 			position: relative;
-			z-index: 0;
+			z-index: 1;
 		}
 
 			#banner h2:before, #banner h2:after {
