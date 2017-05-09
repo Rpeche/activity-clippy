@@ -3138,6 +3138,7 @@
 	}
 
 		#page-wrapper:before {
+			background: transparent;
 			content: '';
 			display: block;
 			display: none;
@@ -3363,7 +3364,7 @@
 /*if you want to make transparent banner, add this 		
 		#header.alt {
 			background: transparent;
-		} */ 
+		} */
 
 			#header.alt h1 {
 				-moz-pointer-events: none;
@@ -3473,7 +3474,7 @@
 			transform: translateY(0);
 			border: none;
 			bottom: 0;
-			color: inherit;
+			color: #ffffff;
 			font-size: 0.8em;
 			height: 8.5em;
 			left: 50%;
