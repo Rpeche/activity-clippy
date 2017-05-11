@@ -3285,7 +3285,7 @@
 			left: 3em;
 			line-height: inherit;
 			position: absolute;
-			top: 0.80em;
+			top: 0.85em;
 		}
 
 			#header h1 a {
@@ -3306,7 +3306,7 @@
 					}
 					#header h1 {
 						left: 1em;
-						top: 0.70em;
+						top: 0.85em;
 					}
 					#header h1 a img {
 						height: 25px;
