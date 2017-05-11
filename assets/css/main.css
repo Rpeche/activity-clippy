@@ -3178,7 +3178,7 @@
 		height: 100%;
 		max-width: 80%;
 		overflow-y: auto;
-		padding: 2em 2em;
+		padding: 3em 2em;
 		position: fixed;
 		right: 0;
 		top: 0;
@@ -3356,7 +3356,7 @@
 								background-repeat: no-repeat;
 								content: '';
 								display: inline-block;
-								height: 3.75em;
+								height: 3em;
 								vertical-align: top;
 								width: 2em;
 							}
