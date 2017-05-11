@@ -3295,6 +3295,10 @@
 				line-height: inherit;
 			}
 
+			#header img {
+				height:38px ;
+			}
+
 				@media screen and (max-width: 736px) {
 
 					#header h1 a {
