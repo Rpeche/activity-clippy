@@ -3489,9 +3489,11 @@
 				top:4em;
 			}
 
-			#banner .inner p {
-				top:2em;
-			}
+		#banner .actions {
+			top: 3em;
+		}
+
+		
 
 
 		#banner .more {
