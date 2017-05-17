@@ -3484,9 +3484,13 @@
 			color: #ffffff;
 			}
 
-			#banner .inner h2 p {
+			#banner .inner h2 {
 				color: #ffffff;
 				top:4em;
+			}
+
+			#banner .inner p {
+				top:2em;
 			}
 
 
