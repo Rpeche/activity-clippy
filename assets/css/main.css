@@ -3473,6 +3473,7 @@
 			letter-spacing: 0.225em;
 			text-transform: uppercase;
 			color: #ffffff;
+			top: 5em;
 		}
 
 			#banner p a {
@@ -3488,10 +3489,6 @@
 				color: #ffffff;
 				top:4em;
 			}
-
-		#banner .inner .actions {
-			top: 3em;
-		}
 
 		
 
