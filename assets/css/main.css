@@ -3477,13 +3477,15 @@
 
 			#banner p a {
 				color: #ffffff;
+				top:4em;
+
 			}
 
 		#banner a {
 			color: #ffffff;
 			}
 
-			#banner .inner h2 p {
+			#banner .inner h2 {
 				color: #ffffff;
 				top:4em;
 			}
