@@ -3485,8 +3485,11 @@
 
 			#banner .inner h2 {
 				color: #ffffff;
-				top: 3em;
 			}
+
+		#banner .inner {
+			top:3em;
+		}
 
 		#banner .more {
 			-moz-transition: -moz-transform 0.75s ease, opacity 0.75s ease;
