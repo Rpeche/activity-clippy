@@ -2506,6 +2506,7 @@
 			order: 1;
 			border-radius: 0;
 			width: 40%;
+			top:1em;
 		}
 
 			.spotlight .image img {
@@ -2809,7 +2810,6 @@
 
 		.wrapper.style2 {
 			background-color: #ffffff;
-			top:2em;
 		}
 
 		.wrapper.style3 {
