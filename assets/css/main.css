@@ -3246,7 +3246,7 @@
 		}
 
 	body.is-menu-visible #page-wrapper {
-		opacity: 0;
+		opacity: 0.35;
 	}
 
 		body.is-menu-visible #page-wrapper:before {
