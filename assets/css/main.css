@@ -3473,6 +3473,7 @@
 			letter-spacing: 0.225em;
 			text-transform: uppercase;
 			color: #ffffff;
+			top:2em;
 		}
 
 			#banner p a {
@@ -3485,11 +3486,9 @@
 
 			#banner .inner h2 {
 				color: #ffffff;
+				top:4em;
 			}
 
-		#banner .inner {
-			top:6em;
-		}
 
 		#banner .more {
 			-moz-transition: -moz-transform 0.75s ease, opacity 0.75s ease;
