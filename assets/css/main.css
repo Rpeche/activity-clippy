@@ -3278,6 +3278,10 @@
 		z-index: 10000;
 	}
 
+	#header nav {
+		border-bottom-style: solid;
+		border-color: #ffffff;
+	}
 		#header h1 {
 			-moz-transition: opacity 0.3s ease;
 			-webkit-transition: opacity 0.3s ease;
@@ -3321,8 +3325,7 @@
 			position: absolute;
 			right: 0;
 			top: 0;
-			border-style: solid;
-			border-color: #ffffff;
+
 		}
 
 			#header nav > ul {
