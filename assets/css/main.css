@@ -3370,7 +3370,9 @@
 									padding: 0 1.5em;
 								}
 
-									
+								#header nav > span {
+									visibility: hidden;
+								}	
 
 							}
 
