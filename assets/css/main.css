@@ -3370,7 +3370,7 @@
 									padding: 0 1.5em;
 								}
 
-								#header nav > span {
+								#header nav > ul > li > span {
 									visibility: hidden;
 								}	
 
