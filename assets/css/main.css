@@ -3365,7 +3365,8 @@
 							@media screen and (max-width: 736px) {
 
 								#header nav > ul > li > a.menuToggle {
-									display: transparent;
+									padding: 0 1.5em;
+									background: transparent;
 								}
 
 									
