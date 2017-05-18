@@ -3350,7 +3350,7 @@
 						#header nav > ul > li > a.menuToggle {
 							outline: 0;
 							position: relative;
-							top: 0.4em;
+							top: 1em;
 						}
 
 							#header nav > ul > li > a.menuToggle:after {
