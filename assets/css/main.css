@@ -3343,13 +3343,14 @@
 						letter-spacing: 0.225em;
 						padding: 0 1.5em;
 						text-transform: uppercase;
+						visibility: hidden;
+
 					}
 
 						#header nav > ul > li > a.menuToggle {
 							outline: 0;
 							position: relative;
 							top: 0.4em;
-							visibility: hidden;
 						}
 
 							#header nav > ul > li > a.menuToggle:after {
