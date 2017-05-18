@@ -1647,7 +1647,9 @@
 			header.major {
 				margin: 0 0 2em 0;
 			}
-
+			section .questions {
+				padding-left: 10em;
+			}
 		}
 
 	@media screen and (max-width: 980px) {
