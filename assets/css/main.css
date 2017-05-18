@@ -3520,7 +3520,6 @@
 			opacity: 1;
 			outline: 0;
 			padding-left: 0.225em;
-			padding-top:10em;
 			position: absolute;
 			text-align: center;
 			text-transform: uppercase;
@@ -3541,6 +3540,7 @@
 				margin: 0 0 0 -0.75em;
 				position: absolute;
 				width: 1.5em;
+				padding-top:4em;
 			}
 
 		#banner:after {
