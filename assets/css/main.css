@@ -3532,6 +3532,7 @@
 				background-position: center;
 				background-repeat: no-repeat;
 				background-size: contain;
+				top: 2em;
 				bottom: 4em;
 				content: '';
 				display: block;
@@ -3540,7 +3541,6 @@
 				margin: 0 0 0 -0.75em;
 				position: absolute;
 				width: 1.5em;
-				padding-top: 1em;
 			}
 
 		#banner:after {
