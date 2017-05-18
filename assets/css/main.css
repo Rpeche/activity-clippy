@@ -3321,6 +3321,8 @@
 			position: absolute;
 			right: 0;
 			top: 0;
+			border-bottom:1px ;
+			border-color: #ffffff;
 		}
 
 			#header nav > ul {
