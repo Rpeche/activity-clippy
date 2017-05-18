@@ -3321,7 +3321,7 @@
 			position: absolute;
 			right: 0;
 			top: 0;
-			border-bottom:2px;
+			border-style: solid;
 			border-color: #ffffff;
 		}
 
