@@ -1413,7 +1413,7 @@
 	body, input, select, textarea {
 		color: #000000;
 		font-family: "Open Sans", Helvetica, sans-serif;
-		font-size: 15pt;
+		font-size: 12pt;
 		font-weight: 400;
 		letter-spacing: 0.075em;
 		line-height: 1.65em;
@@ -2977,7 +2977,6 @@
 
 			.wrapper.style5 p {
 				padding: 0em 10em;
-
 			}
 
 			.wrapper.style5 h2 {
