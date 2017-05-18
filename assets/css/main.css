@@ -2518,7 +2518,7 @@
 			}
 
 		.spotlight .content {
-			padding: -4em 3em 0.1em 2em ;
+			padding: 2em 4em 0.1em 4em ;
 			-moz-order: 2;
 			-webkit-order: 2;
 			-ms-order: 2;
@@ -2814,6 +2814,10 @@
 		.wrapper.style2 {
 			background-color: #ffffff;
 			padding-top:3em;
+		}
+
+		.wrapper.style2 .image {
+			padding-left:3em;
 		}
 
 		.wrapper.style3 {
