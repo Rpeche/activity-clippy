@@ -3333,6 +3333,7 @@
 				#header nav > ul > li {
 					display: inline-block;
 					padding: 0;
+					visibility: hidden;
 
 				}
 
@@ -3384,7 +3385,7 @@
 
 					#header nav > ul > li:first-child {
 						margin-left: 0;
-						visibility: hidden;
+
 					}
 
  	/* if you want to make this transparent, add this
