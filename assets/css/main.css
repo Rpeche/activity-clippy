@@ -3520,7 +3520,6 @@
 			opacity: 1;
 			outline: 0;
 			padding-left: 0.225em;
-			padding-top: 3em;
 			position: absolute;
 			text-align: center;
 			text-transform: uppercase;
@@ -3533,6 +3532,7 @@
 				background-position: center;
 				background-repeat: no-repeat;
 				background-size: contain;
+				padding-top: 5em;
 				bottom: 4em;
 				content: '';
 				display: block;
