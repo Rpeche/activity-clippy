@@ -2975,6 +2975,10 @@
 			color: #4E4852;
 		}
 
+			.wraper.style5 .inner { 
+				padding: 0 3em;
+			}
+
 			.wrapper.style5 strong, .wrapper.style5 b {
 				color: #2E3842;
 			}
