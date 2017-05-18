@@ -3281,7 +3281,7 @@
 		-ms-transition: background-color 0.2s ease;
 		transition: background-color 0.2s ease;
 		background: #ffffff;
-		height: 4.6em;
+		height: 4.2em;
 		left: 0;
 		line-height: 3em;
 		position: fixed;
@@ -3311,7 +3311,7 @@
 			}
 
 			#header img {
-				height:10px ;
+				height:38px ;
 			}
 
 				@media screen and (max-width: 736px) {
