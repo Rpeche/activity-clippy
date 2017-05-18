@@ -1600,6 +1600,10 @@
 		text-align: center;
 	}
 
+	section .questions {
+		padding-left: 5em;
+	}
+
 	header p {
 		color: rgba(255, 255, 255, 0.5);
 		position: relative;
