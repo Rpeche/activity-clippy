@@ -3278,7 +3278,7 @@
 		z-index: 10000;
 	}
 
-	
+
 		#header h1 {
 			-moz-transition: opacity 0.3s ease;
 			-webkit-transition: opacity 0.3s ease;
@@ -3567,6 +3567,9 @@
 			top: 0;
 			opacity: 0;
 		}
+
+
+
 
 		@media screen and (max-width: 736px) {
 
