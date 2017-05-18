@@ -2975,8 +2975,8 @@
 			color: #4E4852;
 		}
 
-			.wrapper.style5 p {
-				padding: 0em 3em;
+			.wrapper.style5 p, .wrapper.style5 h2 {
+				padding: 0em 7em;
 
 			}
 			.wrapper.style5 strong, .wrapper.style5 b {
