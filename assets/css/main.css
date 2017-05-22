@@ -2979,7 +2979,9 @@
 			color: #4E4852;
 		}
 
-	
+			.wrapper.style5 p {
+				padding: 0em 0em;
+			}
 
 			.wrapper.style5 .backup {
 				padding: 2em 0em;
