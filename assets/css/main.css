@@ -2991,8 +2991,7 @@
 			}
 
 			.wrapper.style5 .bullets {
-				list-style-image: url("images/bullet.jpg");
-
+				list-style: url("images/bullet.jpg");
 			}
 
 
