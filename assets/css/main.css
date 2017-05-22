@@ -2979,7 +2979,9 @@
 			color: #4E4852;
 		}
 
-		
+			.wrapper.style5 p {
+				padding: 0em 0em;
+			}
 
 			.wrapper.style5 h2 {
 				padding: 1em 0em ;
@@ -2987,7 +2989,7 @@
 			}
 
 			.wrapper.style5 h3 { 
-				padding: 0em 8.9em;
+				padding: 0em 0em;
 			}
 
 			.wrapper.style5 strong, .wrapper.style5 b {
