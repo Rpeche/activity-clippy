@@ -3090,6 +3090,8 @@
 
 			.wrapper.style5 ul.alt li {
 				border-color: #dfdfdf;
+				list-style-image: url("images/bullet.jpg");
+
 			}
 
 			.wrapper.style5 table tbody tr {
