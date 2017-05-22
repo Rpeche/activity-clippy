@@ -2988,7 +2988,7 @@
 			}
 
 			.wrapper.style5 .questions {
-				padding: 0em 10em;
+				padding: 0em 10em !important;
 			}
 
 			.wrapper.style5 .backup {
