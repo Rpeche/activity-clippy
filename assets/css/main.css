@@ -2251,7 +2251,7 @@
 		height: 3.125em;
 		letter-spacing: 0.225em;
 		line-height: 3.125em;
-		padding: 2 4em;
+		padding: 4em 4em;
 		text-align: center;
 		text-decoration: none;
 		text-transform: uppercase;
@@ -2318,7 +2318,6 @@
 			background-color: #d31c29;
 			box-shadow: none !important;
 			color: #ffffff !important;
-			padding: 4em 3em;
 		}
 
 			input[type="submit"].special:hover,
