@@ -2246,12 +2246,12 @@
 		color: #fff;
 		cursor: pointer;
 		display: inline-block;
-		font-size: 2em;
+		font-size: 0.8em;
 		font-weight: 600;
 		height: 3.125em;
 		letter-spacing: 0.225em;
 		line-height: 3.125em;
-		padding: 15em 20em;
+		padding: 2 4em;
 		text-align: center;
 		text-decoration: none;
 		text-transform: uppercase;
@@ -2318,6 +2318,7 @@
 			background-color: #d31c29;
 			box-shadow: none !important;
 			color: #ffffff !important;
+			padding: 2em 3em;
 		}
 
 			input[type="submit"].special:hover,
