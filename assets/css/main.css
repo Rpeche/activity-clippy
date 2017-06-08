@@ -3672,6 +3672,16 @@
 		opacity: 1;
 	}
 
+
+/* Product Images */
+
+.productimages {
+	height:55px;
+	width:244px;
+	
+}
+
+
 /* CTA */
 
 	#cta .inner {
