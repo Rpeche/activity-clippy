@@ -3685,7 +3685,7 @@
 	display: table-cell;
 	text-align: center;
 	padding-top:25px;
-
+	vertical-align: middle;
 }
 
 .card {
