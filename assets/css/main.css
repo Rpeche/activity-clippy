@@ -3726,7 +3726,7 @@
 .card-title {
 	font-size: 1em;
 	font-style: bold;
-	padding-bottom:1em;
+	margin-bottom: 0em;
 }
 .card-content {
 	padding: 10px;
