@@ -3725,7 +3725,7 @@
 
 .card-title {
 	font-size: 1em;
-	font-weight: 200;
+	font-weight: bold;
 	margin-bottom: 1em;
 }
 .card-content {
@@ -3734,7 +3734,7 @@
 }
 
 .price {
-	margin-bottom: 1.3em;
+	margin-bottom: 1.5em;
 }
 
 /* CTA */
