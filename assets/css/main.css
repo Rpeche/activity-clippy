@@ -3687,6 +3687,12 @@
 	margin:2em 4em;
 }
 
+.button-special2 {
+	background-color: #d31c29;
+	box-shadow: none !important;
+	color: #ffffff !important;		
+}
+
 /* product row snippet */ 
 
 .row {
