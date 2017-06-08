@@ -3723,6 +3723,9 @@
   	transition: all .25s ease;
 }
 
+.card-title {
+	font-size: ;
+}
 .card-content {
 	padding: 10px;
 	text-align: center;
