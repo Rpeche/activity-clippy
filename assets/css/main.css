@@ -3682,6 +3682,8 @@
 }
 
 .row {
+	display: table-cell;
+	text-align: center;
 	padding-top:25px;
 
 }
