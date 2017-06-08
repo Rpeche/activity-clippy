@@ -3678,10 +3678,9 @@
 
 
 .row {
-	display:table-cell;
-	text-align: center;
+	display:inline-block;
 	padding-top:25px;
-	vertical-align: middle;
+	
 }
 
 .card {
