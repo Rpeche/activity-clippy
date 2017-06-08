@@ -3724,7 +3724,9 @@
 }
 
 .card-title {
-	font-size: ;
+	font-size: 1.75em;
+	font-style: bold;
+	padding-bottom:1em;
 }
 .card-content {
 	padding: 10px;
