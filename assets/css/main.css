@@ -3703,9 +3703,10 @@
 
 .card {
 	display: block;
-	margin-bottom: 5em;
+	margin-bottom: 2em;
 	line-height: 1.4em;
 	background-color: #ffffff;
+	padding-bottom:3em;
 }	
 
 .img-card {
