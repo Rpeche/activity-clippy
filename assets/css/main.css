@@ -3675,17 +3675,7 @@
 
 /* Product Images */
 
-.productimages img{
-	height:190px;
-	width:284px;
-	display: inline-block;
-	margin: 0 1em;
-}
 
-.producttext p {
-	display: inline-block;
-	margin:2em 4em;
-}
 
 .button-special2 {
 	background-color: #000000;
