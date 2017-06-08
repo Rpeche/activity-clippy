@@ -3676,6 +3676,9 @@
 
 /* product row snippet */ 
 
+.container {
+	width: 100%;
+}
 
 .row {
 	padding-top:25px;
