@@ -3680,7 +3680,7 @@
 .row {
 	display:inline-block;
 	padding-top:25px;
-	
+
 }
 
 .card {
@@ -3692,7 +3692,7 @@
 }	
 
 .img-card {
-	width:265px;
+	width:285px;
 	height:180px;
 	display: block;
 	overflow: hidden;
