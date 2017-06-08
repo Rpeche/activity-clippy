@@ -3709,11 +3709,11 @@
 	width:265px;
 	height:180px;
 	display: block;
-	overflow: hidden;
+		overflow: hidden;
 }
 
 .img-card img {
-  	width: 265px%;
+  	width: 265px;
   	height: 180px;
   	object-fit: cover;
   	transition: all .25s ease;
