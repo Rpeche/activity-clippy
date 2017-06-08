@@ -3707,6 +3707,12 @@
 	overflow: hidden;
 }
 
+.img-card img{
+  width: 100%;
+  height: 289px;
+  object-fit:cover;
+  transition: all .25s ease;
+
 /* CTA */
 
 	#cta .inner {
