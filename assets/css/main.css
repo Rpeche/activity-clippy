@@ -3719,10 +3719,10 @@
 	margin-bottom: 1.5em;
 }
 
-.price p {
+.price h6 {
 	text-decoration: line-through;
 	color:#c5c3c6;
-	line-height: 1em;
+	line-height: .7em;
 }
 
 .button-special2 {
