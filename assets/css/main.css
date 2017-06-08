@@ -3677,6 +3677,7 @@
 /* product row snippet */ 
 
 .container {
+	display: table;
 	width: 100%;
 }
 
