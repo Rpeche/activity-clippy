@@ -3688,9 +3688,10 @@
 }
 
 .button-special2 {
-	background-color: #d31c29;
+	background-color: #000000;
 	box-shadow: none !important;
-	color: #ffffff !important;		
+	color: #ffffff !important;
+	padding: 1.5em 3em;		
 }
 
 /* product row snippet */ 
