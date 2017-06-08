@@ -3724,7 +3724,13 @@
 	box-shadow: none !important;
 	color: #ffffff !important;
 	padding: 1em 2.5em;
+
 }
+
+.button.special:hover {
+	background-color: #ef5e4a !important;
+}
+
 
 @media screen and (max-width: 736px) {
 
