@@ -3733,6 +3733,10 @@
   font-size: 1.65em;
 }
 
+.price {
+	margin: 1em 2em;
+}
+
 /* CTA */
 
 	#cta .inner {
