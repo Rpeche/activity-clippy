@@ -1,6 +1,5 @@
 @import url(font-awesome.min.css);
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,600italic,800,800italic");
-@import url("https://fonts.googleapis.com/css?family=Lato:400,700");
 /*
 	Spectral by HTML5 UP
 	html5up.net | @ajlkn
@@ -3722,7 +3721,7 @@
 	font-size: 1em;
 	font-weight: bold;
 	margin-bottom: 1em;
-	font-family: "700"
+	font-family: "Open sans 400";
 }
 .card-content {
 	padding: 10px;
