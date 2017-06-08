@@ -3692,7 +3692,6 @@
 	box-shadow: none !important;
 	color: #ffffff !important;
 	padding: 1em 2.5em;
-	margin-top:1em;
 }
 
 /* product row snippet */ 
@@ -3729,9 +3728,8 @@
 	text-align: center;
 }
 
-
 .price {
-	margin: 1em 2em;
+	margin-bottom: 4em;
 }
 
 /* CTA */
