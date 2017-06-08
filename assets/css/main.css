@@ -3706,9 +3706,9 @@
 }	
 
 .img-card {
-	width:100%;
+	width:265px;
 	height:180px;
-	display: inline-block;
+	display: block;
 		overflow: hidden;
 }
 
