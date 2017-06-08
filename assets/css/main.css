@@ -3687,7 +3687,7 @@
 	display: block;
 		line-height: 1.4em;
 		padding-bottom:3em;
-		margin: 0 1.3em 2em 0em;
+		margin: 0 1em 2em 1em;
 }	
 
 .img-card {
@@ -3742,10 +3742,10 @@
 
 @media screen and (max-width: 736px) {
 
-.row {
-	display:inline-block;
-	margin: auto;
-}
+	.row {
+		display:inline-block;
+		margin: auto;
+	}
 
 }
 
