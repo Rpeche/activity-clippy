@@ -3723,7 +3723,8 @@
 	box-shadow: none !important;
 	color: #ffffff !important;
 	padding: 1em 2.5em;
-
+	border-top-left-radius:2px;
+    border-top-right-radius:2px;
 }
 
 .button-special2:hover {
