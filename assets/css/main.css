@@ -3727,8 +3727,20 @@
 	padding: 1em 2.5em;
 }
 
+@media screen and (max-width: 736px) {
 
+	.img-card {
+		width: 100%;
+		height:180px;
+	}
 
+	.img-card img {
+		width: 100% ;
+		height: 180px;
+		object-fit: cover;
+	}
+
+}
 
 /* CTA */
 
