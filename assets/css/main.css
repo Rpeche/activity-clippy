@@ -3740,6 +3740,12 @@
 }
 
 
+@media screen and (max-width: 736px) {
+
+.row {
+	display:inline-block;
+	margin: auto;
+}
 
 /* CTA */
 
