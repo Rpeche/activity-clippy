@@ -3682,6 +3682,10 @@
 	margin: 0 1em;
 }
 
+.producttext p {
+	display: inline-block;
+	margin:2em 4em;
+}
 
 /* CTA */
 
