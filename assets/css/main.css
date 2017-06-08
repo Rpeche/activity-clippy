@@ -3673,24 +3673,9 @@
 	}
 
 
-/* Product Images */
-
-
-
-.button-special2 {
-	background-color: #000000;
-	box-shadow: none !important;
-	color: #ffffff !important;
-	padding: 1em 2.5em;
-}
 
 /* product row snippet */ 
 
-.container {
-	margin: 0;
-	padding: 0;
-	vertical-align: baseline;
-}
 
 .row {
 	padding-top:25px;
@@ -3732,6 +3717,13 @@
 
 .price {
 	margin-bottom: 1.5em;
+}
+
+.button-special2 {
+	background-color: #000000;
+	box-shadow: none !important;
+	color: #ffffff !important;
+	padding: 1em 2.5em;
 }
 
 /* CTA */
