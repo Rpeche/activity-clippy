@@ -3676,12 +3676,12 @@
 
 /* product row snippet */ 
 
-.container {
+.wrapper {
 	display:table;
 	width:100%;
 }
 
-.row {
+.container {
 	display:table-cell;
 	text-align: center;
 	padding-top:25px;
