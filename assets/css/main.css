@@ -3687,6 +3687,10 @@
 
 /* product row snippet */ 
 
+.container {
+	display: flex;
+}
+
 .row {
 	padding-top:25px;
 
